@@ -1,0 +1,31 @@
+MULTIVISIONTECHNOLOGY — UPDATE NOTES
+
+This package was updated to present the business as professional IT infrastructure and business technology solutions.
+
+Added to the homepage:
+- Clear senior IT support headline and Request IT Support call-to-action
+- Client-friendly service cards: server/infrastructure, network/firewall/Wi-Fi, VPN, Citrix, Odoo ERP, cybersecurity/backup, and control-system support
+- “How I Can Help” section
+- Technologies I Support section: Windows Server, Linux, Citrix, Dell PowerEdge, HPE ProLiant, Docker, FortiGate, Cisco Networking, OpenVPN, WireGuard, Active Directory, DNS/DHCP, Odoo ERP, Microsoft 365, backup/recovery, and control systems
+- Experience section based on 20+ years of IT support work
+
+Updated:
+- Services, About, Servers, Network, Cybersecurity, ERP, and Contact pages
+- Contact-form service choices
+- Removed template {CTA} errors from service detail pages
+
+IMPORTANT BEFORE PUBLISHING:
+1. The original package references multivision-technology-logo.png, but that file was not included in the ZIP. Add your own company logo file to the main website folder using that exact filename, or replace the image references in every HTML page.
+2. Add a real phone number, business email, service area, and hours on contact.html.
+3. The contact form is visual only; connect it to a secure form provider or a backend before expecting email submissions.
+4. The technology section uses branded technology names in styled badges, not copied official logo files. If you have permission and approved official brand assets, replace badges with the official assets. Do not imply that your company is an authorized partner or reseller unless that is true.
+5. Review every service and remove anything you do not personally provide.
+
+COMPANY-POSITIONING UPDATE:
+- Replaced individual-focused language with “we,” “our team,” and “Multivision Technology.”
+- Updated the homepage headline, calls to action, support sections, and About page to present a professional company/team identity.
+- Removed the individual “Senior IT Engineer” framing from the public homepage.
+
+TECHNOLOGY ICON UPDATE:
+- Added 16 original SVG technology-category illustrations to the Technologies We Support sections on the Home and About pages.
+- These illustrations do not copy official vendor logos.
